@@ -28,6 +28,7 @@ Issues, pull requests and discussions will appear on your contribution graph if 
 ### Commits
 Commits will appear on your contributions graph if they meet **all** of the following conditions:
 - The email address used for the commits is associated with your account on {% data variables.product.product_location %}.
+- The commit date of the commits is greater or equal than their author date.
 - The commits were made in a standalone repository, not a fork.
 - The commits were made:
   - In the repository's default branch
